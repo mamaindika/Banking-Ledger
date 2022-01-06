@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:127.0.0.1}:3306/db_example
+    username: springuser
+    password: Ripejak@123
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+  application:
+    name: banking-ledger
+
+server:
+  port: 18000
+
