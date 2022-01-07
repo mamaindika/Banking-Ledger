@@ -3,7 +3,6 @@ package com.nimidev.bankingLedger.entity;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import org.hibernate.annotations.GenericGenerator;
-
 import javax.persistence.*;
 
 @Entity

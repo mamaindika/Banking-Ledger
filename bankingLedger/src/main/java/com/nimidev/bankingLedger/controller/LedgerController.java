@@ -1,6 +1,5 @@
 package com.nimidev.bankingLedger.controller;
 
-
 import com.nimidev.bankingLedger.entity.Ledger;
 import com.nimidev.bankingLedger.service.LedgerService;
 import io.swagger.annotations.ApiOperation;

@@ -1,7 +1,6 @@
 package com.nimidev.bankingLedger.controller;
 
 import com.nimidev.bankingLedger.entity.Account;
-import com.nimidev.bankingLedger.entity.User;
 import com.nimidev.bankingLedger.service.AccountService;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
